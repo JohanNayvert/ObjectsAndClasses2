@@ -12,9 +12,9 @@ public class Main {
 
         warAndPeace.setYear(1999);
 
-        System.out.println("warAndPeace.getYear() = " + warAndPeace.getYear());
-        System.out.println("idiot.getNameBook() = " + idiot.getNameBook());
-        System.out.println("tolstoy = " + tolstoy.getClass());
+        System.out.println("warAndPeace => " + warAndPeace);
+        System.out.println("idiot => " + idiot);
+        System.out.println("tolstoy => " + tolstoy);
 
         System.out.println();
         System.out.println("HomeWork Complete");
